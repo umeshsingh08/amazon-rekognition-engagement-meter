@@ -14,10 +14,10 @@ export default props => (
       <Nav>
         <NavItem
           eventKey={1}
-          href="https://github.com/aws-samples/amazon-rekognition-engagement-meter"
+          href=""
           target="_blank"
         >
-          Fork me in github
+        
         </NavItem>
       </Nav>
       <Nav pullRight style={{ paddingTop: "8px" }}>
